@@ -1,18 +1,12 @@
 # Chat Application MERN-Stack Web Application.
 
-<p align="center">
-  <b style="color: blue;  ">Visitor count</b>
-  <br>
-  <a style="" href="https://github.com/akashdeep023">
-  <img src="https://profile-counter.glitch.me/chat-app/count.svg" />
-  </a>
-</p>
+
 
 ---
 
-<a style="" href="https://chat-application-jack.vercel.app/">
+<a style="" href="https://venky-chat.vercel.app/signin">
   
-![Macbook-Air-Iphone-13](https://github.com/user-attachments/assets/24edbef0-083f-44d4-9717-3e659ecb404b)
+Watch Demo Link
 
 </a>
 
@@ -51,7 +45,7 @@ Follow these steps to set up and run the project locally:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/akashdeep023/Chat_App.git
+    git clone https://github.com/438-venkatesh/Venky-Chat.git
     cd Chat_App
     ```
 
@@ -86,7 +80,7 @@ Follow these steps to set up and run the project locally:
     FRONTEND_URL=http://localhost:5173
     MONGODB_URI=mongo_url
     PORT=9000
-    JWT_SECRET=secret-kvndkvdlkajkhkJkBiu6JJNjkbhkvnskcmhLJ5dKbkjsamnv
+    JWT_SECRET=venkatesh is a good boy
     ```
 
     Replace the values with your specific configurations.
